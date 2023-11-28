@@ -13,3 +13,5 @@ Technologies Used
 Backend: Python, Flask
 Frontend: HTML, CSS.
 Databases: Firebase (NoSQL), MySQL (SQL)
+
+We have used various datasets to showcase these functionalities like WorldHappinessReport2015.csv, cars.csv, flavors_of_cacao.csv etc.
